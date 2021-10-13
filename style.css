@@ -1,0 +1,29 @@
+th {
+    background-color: black;
+    color: white;
+    border-width: 1px ;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.soul{
+    background-color: rgb(187, 129, 21);
+}
+.time{
+    background-color: rgb(9, 104, 9);
+}
+.space{
+    background-color:rgb(10, 10, 119);
+}
+.mind{
+    background-color: rgb(185, 185, 13);
+}
+.reality{
+    background-color:rgb(156, 13, 13);
+}
+.power{
+    background-color:rgb(116, 32, 116);
+}
+img{
+    width: 130px;
+    border-radius: 10px;
+}
